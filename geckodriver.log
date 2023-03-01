@@ -1,0 +1,43 @@
+1677636397271	geckodriver	INFO	Listening on 127.0.0.1:53475
+1677636397466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53476" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mw/zjkpp1qs79dgw3r0cj69_8s00000gn/T/rust_mozprofilezwDnhH"
+1677636398520	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53476
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mw/zjkpp1qs79dgw3r0cj69_8s00000gn/T/rust_mozprofilezwDnhH/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1677636402145	Marionette	INFO	Listening on port 53515
+Read port: 53515
+1677636402241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53476/devtools/browser/12356094-da67-458a-a98c-4910284d64f2
+1677636516552	geckodriver	INFO	Listening on 127.0.0.1:53620
+1677636517066	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53621" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mw/zjkpp1qs79dgw3r0cj69_8s00000gn/T/rust_mozprofileoy61ox"
+1677636517936	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53621
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mw/zjkpp1qs79dgw3r0cj69_8s00000gn/T/rust_mozprofileoy61ox/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1677636521875	Marionette	INFO	Listening on port 53653
+Read port: 53653
+DevTools listening on ws://localhost:53621/devtools/browser/9cbe236d-1e4e-4f46-b953-f82e7c5b0f09
+1677636522136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1677636536165	geckodriver	INFO	Listening on 127.0.0.1:53670
+1677636536681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53671" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/mw/zjkpp1qs79dgw3r0cj69_8s00000gn/T/rust_mozprofileMBnTKN"
+1677636537535	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:53671
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/mw/zjkpp1qs79dgw3r0cj69_8s00000gn/T/rust_mozprofileMBnTKN/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1677636541638	Marionette	INFO	Listening on port 53708
+Read port: 53708
+1677636541859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:53671/devtools/browser/a65b99a9-26ed-46b0-aedd-79d29661c206
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677637085096	Marionette	INFO	Stopped listening on port 53653
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
